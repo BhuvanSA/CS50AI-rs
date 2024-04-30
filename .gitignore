@@ -1,0 +1,9 @@
+
+# Rust
+target/
+**/*.rs.bk
+.env
+Cargo.lock
+
+# Macos
+.DS_Store
