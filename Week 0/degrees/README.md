@@ -17,7 +17,7 @@ A key advantage of this implementation is its superior performance compared to a
 
 **Python takes 6.5x to 383.7x more time than Rust!** 
 
-![Visualized Performance using Area chart](../images/TimeChart.png)
+![Visualized Performance using Area chart](./images/TimeChart.png)
 
 These results clearly demonstrate Rust's ability to deliver substantial performance gains, especially as problem complexity increases.
 
